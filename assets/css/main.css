@@ -1182,7 +1182,7 @@ input, select, textarea {
 
 /* Wrapper */
 
-	/* #wrapper {
+	#wrapper {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -1233,7 +1233,7 @@ input, select, textarea {
 				padding: 1rem;
 			}
 
-		} */
+		}
 
 /* Header */
 
