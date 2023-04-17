@@ -1291,10 +1291,10 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 11rem !important;
-			height: 11rem !important;
+			width: 11rem;
+			height: 11rem;
 			border: solid 1px #ffffff;
-			border-radius: 0%;
+			border-radius: 100%;
 			display: flex;
 			justify-content: center;
 			align-items: center;
@@ -1445,8 +1445,8 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				width: 4.75rem;
-				height: 4.75rem;
+				width: 11rem;
+				height: 11rem;
 				line-height: 4.75rem;
 			}
 
