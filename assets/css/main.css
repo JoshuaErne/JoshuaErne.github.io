@@ -1291,10 +1291,10 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 11rem;
-			height: 11rem;
+			width: 11rem !important;;
+			height: 11rem !important;;
 			border: solid 1px #ffffff;
-			border-radius: 100%;
+			border-radius: 0%;
 			display: flex;
 			justify-content: center;
 			align-items: center;
